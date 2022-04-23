@@ -5,6 +5,7 @@ document.getElementById('goButton').onclick = illuminateGreen;
 function illuminateRed() {
   clearLights();
   document.getElementById('stopLight').style.backgroundColor = "red";
+  console.log('lol');
 }
 
 function illuminateYellow() {

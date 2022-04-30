@@ -1,2 +1,2 @@
 # JS Traffic Lights
- early pre bootcamp project from codepen
+ early pre bootcamp project taken from my codepen
